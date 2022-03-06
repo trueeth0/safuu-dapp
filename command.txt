@@ -1,0 +1,1 @@
+py contribute.py -r https://github.com/petermori0/safuu-dapp.git -ue petermori0206@gmail.com -un petermori0 -fr 30
